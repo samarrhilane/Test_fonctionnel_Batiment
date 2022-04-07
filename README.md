@@ -22,5 +22,21 @@ Pour cela, il vous faut :
 - Dans le répertoire src/main/java, stocker le code source des classes.
 - Dans le répertoire src/test/java, stocker les classes de tests JUNIT
 - Dans le répertoire src/test/ressources, stocker les fichiers .features.
-### 3. Définition du feature
+## 3. Définition du feature
 Nous définissons le feature qui contiendra tous les scénarios liés à la classe. Chaque situation réelle sera représentée par un scénario.
+![feature](https://user-images.githubusercontent.com/29365707/162334458-dca1fd23-2f4d-470c-8ae6-60b132ba1321.PNG)
+
+## 4.Le code de test implémentant le scénario
+![stepdef](https://user-images.githubusercontent.com/29365707/162335489-1d4689d8-0720-40cd-a7dc-4abce8d18e4d.PNG)
+
+- La fonction (le nombre détages (.+) et le nombre de fenetres (.+) dun batiment) : 
+Permet de saisir le nombre de fenetre et d'etages d'un batiment
+- La fonction (lutilisateur demande le calcul du nombre total de fenêtres):
+Permet de calculer le nombre total de fenetres quand l'utilisateur passe la demande
+- La fonction (e (.+) doit etre retourné):
+Retourne le nombre calculer après la demande
+
+## 5. Execution est resultat du test
+![runner](https://user-images.githubusercontent.com/29365707/162334484-719c1b65-a6e0-4f5f-a713-2bdefc7e2d6a.PNG)
+
+==> test réalisé !!
