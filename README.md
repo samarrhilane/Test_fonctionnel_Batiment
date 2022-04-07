@@ -18,6 +18,7 @@ Pour effectuer les tests fonctionnels, le package Cucumber est necessaire. Cucum
 Pour cela, il vous faut :
 - Ouvrir Éclipse puis créer un nouveau projet Maven.
 - créer les dépendances.
+
 ![dependecy](https://user-images.githubusercontent.com/29365707/162334418-28ab4e69-4807-4c9f-b03b-af2cb8690284.png)
 ## 2. Création du projet :
 - Dans le répertoire src/main/java, stocker le code source des classes.
