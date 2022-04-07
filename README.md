@@ -11,6 +11,7 @@
 # Test_fonctionnel_Batiment
 
 Pour effectuer les tests fonctionnels, le package Cucumber est necessaire. Cucumber est un outil qui lit les spécifications exécutables écrites en texte brut et confirme que le logiciel fait ce que ces spécifications disent. Les spécifications se composent de plusieurs exemples ou scénarios.
+
 ![cucumber](https://user-images.githubusercontent.com/29365707/162333846-2051c2c4-5f7d-46fd-acbd-75447151926d.png)
 
 ## 1. Création d’un projet Maven :
