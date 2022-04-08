@@ -19,7 +19,8 @@ Pour cela, il vous faut :
 - Ouvrir Éclipse puis créer un nouveau projet Maven.
 - créer les dépendances.
 
-![dependecy](https://user-images.githubusercontent.com/29365707/162334418-28ab4e69-4807-4c9f-b03b-af2cb8690284.png)
+![dependency2](https://user-images.githubusercontent.com/29365707/162396444-b872e7b8-fe95-4fd8-8192-e02d17bcda63.png)
+
 ## 2. Création du projet :
 - Dans le répertoire src/main/java, stocker le code source des classes.
 - Dans le répertoire src/test/java, stocker les classes de tests JUNIT
